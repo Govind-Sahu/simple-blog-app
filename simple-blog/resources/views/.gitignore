@@ -1,0 +1,41 @@
+# Laravel generated files
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.env
+/.env.*.backup
+
+# Laravel cache and logs
+/storage/logs
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/bootstrap/cache
+
+# IDE and Editor settings
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# MacOS files
+.DS_Store
+
+# npm debug file
+npm-debug.log
+yarn-error.log
+
+# Composer files
+composer.lock
+
+# PHPStorm metadata
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Operating System files
+Thumbs.db
